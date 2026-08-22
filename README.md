@@ -23,3 +23,5 @@ Simple Interest = (1000 × 5 × 2) / 100 = 100
 ## Result
 
 The simple interest is **100**.
+
+Simple Interest Calculator
