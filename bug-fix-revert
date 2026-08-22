@@ -1,0 +1,17 @@
+Command:
+curl.exe -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10498 | Select-String '"html_url"|"head"|"repo"|"full_name"'
+
+Output:
+"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10498",
+"html_url": "https://github.com/Anjali-Nayak-prog",
+"head": {
+"repo": {
+"full_name": "Anjali-Nayak-prog/mcino-Introduction-to-Git-and-GitHub",
+"html_url": "https://github.com/Anjali-Nayak-prog",
+"html_url": "https://github.com/Anjali-Nayak-prog/mcino-Introduction-to-Git-and-GitHub",
+"html_url": "https://github.com/Anjali-Nayak-prog",
+"repo": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+"html_url": "https://github.com/ibm-developer-skills-network",
+"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+"html_url": "https://github.com/ibm-developer-skills-network",
